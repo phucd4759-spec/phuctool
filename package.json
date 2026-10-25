@@ -1,0 +1,12 @@
+{
+  "name": "phuc-tool",
+  "version": "1.0.0",
+  "description": "Phúc Tool - Quản lý Cookie TikTok",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
